@@ -1,1 +1,1 @@
-# python-1
+# Materiály ku kurzu Python 1
