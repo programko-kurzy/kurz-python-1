@@ -1,13 +1,4 @@
-# 1.1
-# Vypíšte na riadok výstupu v konzole reťazec: Hello World!
-print('Hello World!')
-print()
-
-# 1.2 Príklad
-# Nechajte užívateľa zadať jeho meno a vypíšte reťazec: “Meno“ je super.
-meno = input('Zadajte meno:')
-print(meno, 'je super')
-print()
+# Vyskusajte
 
 # TYPY
 # Vyskusajte si
