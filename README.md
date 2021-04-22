@@ -1,1 +1,1 @@
-# Materiály ku kurzu Python 1
+# Programko - Vzorové riešenia úloh pre kurz Python 1
